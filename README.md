@@ -1,5 +1,3 @@
-# dogma-indexed-db-connection
-
 # Dogma IndexedDB Connection
 > IndexedDB data connection for Dart
 
